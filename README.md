@@ -1,2 +1,2 @@
 # mount_delay
-Script for delaying mount of network drives
+Script for delaying mounting of network drives
