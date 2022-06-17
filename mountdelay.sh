@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+aaaaaaaaaaaaaaaaa
 
 #sudo mount -t cifs -o username=seisan,password=mont-serrat //172.20.0.53/DVG_Data/WEBOBS_DATA mvohvs3
 
